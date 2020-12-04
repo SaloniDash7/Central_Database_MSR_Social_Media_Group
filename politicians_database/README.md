@@ -15,4 +15,4 @@
     mp: a member of parliament or not (1/0)
   
   
-    TOTAL NUMBER OF POLITICIANS: **37,116**
+    TOTAL NUMBER OF POLITICIANS: 37,116
