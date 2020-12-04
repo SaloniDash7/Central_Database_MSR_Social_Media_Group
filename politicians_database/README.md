@@ -9,3 +9,5 @@
 **mp**: a member of parliament or not (1/0) <br>
 
 **TOTAL NUMBER OF POLITICIANS**: 37,116 <br>
+
+NOTE: NaN or None values are stored as string "NULL"
