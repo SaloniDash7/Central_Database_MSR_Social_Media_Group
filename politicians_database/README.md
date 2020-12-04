@@ -1,7 +1,7 @@
 ## india_dec_2020.json:
 
 **id_str** : twitter id in string format (str) <br>
-**id**: twitter id (int) <br>
+**id**: twitter id (str) <br>
 **screen_name**: twitter handle (str) <br>
 **party**: political party (str) <br>
 **state**: constituency state (str) <br>
