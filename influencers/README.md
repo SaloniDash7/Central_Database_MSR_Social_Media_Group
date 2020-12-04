@@ -1,6 +1,6 @@
 ## Code Book
 
-| Variable | Values                                                                                            | Description                                                                                                  | Counts                                  |
+| Variable | Values                                                                                            | Comments                                                                                                  | Counts                                  |
 |----------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | verified | (1,0)                                                                                             | Verified by twitter or not                                                                                   | (25023, 33437)                          |
 | category | (Journalist,Celebrity,Media House, Academia, Policy & Law, Other,Other Annotations,Not Annotated) |  Includes annotations for politicians, institutions, business, government bodies as well (Other Annotations) | (5218,1151, 618, 845, 922, 1474, 48250) |
