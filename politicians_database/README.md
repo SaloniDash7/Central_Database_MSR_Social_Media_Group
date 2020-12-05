@@ -14,33 +14,28 @@
 NOTE: NaN or None values are stored as string "NULL"
 
 
-##all_politicians_dec2020_metadata.json
-
-```
+## all_politicians_dec2020_metadata.json
 
 
-**id_str** : twitter id in string format (str) 
-**id**: twitter id (str) 
-**screen_name**: twitter handle (str) 
+**id_str** : twitter id in string format (str)  <br>
+**id**: twitter id (str) <br>
+**screen_name**: twitter handle (str) <br>
 
-**name**:  Twitter display name
+**name**:  Twitter display name <br>
 
-**followers_count**: Twitter followers count of user screen name 
+**followers_count**: Twitter followers count of user screen name <br>
 
-**description**: Twitter Description of user screen name 
+**description**: Twitter Description of user screen name <br>
  
-**friends_count**: Twitter Friends count of user screen name 
+**friends_count**: Twitter Friends count of user screen name <br>
 
-**verified**:  Possible values a) TRUE (verified user ) 
-							   b) FALSE (unverified user)
+**verified**:  Possible values a) TRUE (verified user ) <br>
+							   b) FALSE (unverified user)<br>
 
-**account_exists**: Possible values a) Exists (if user twitter accounts exists )  
-								    b)User Suspended  (if user twitter accounts is suspended ) 
-                                    c)User Not Found  (if user twitter accounts is not found )
-
-
-
-**TOTAL NUMBER OF POLITICIANS**: 37,116 
+**account_exists**: Possible values a) Exists (if user twitter accounts exists )  <br>
+								    b)User Suspended  (if user twitter accounts is suspended ) <br>
+                                    c)User Not Found  (if user twitter accounts is not found ) <br>
 
 
-```
+
+**TOTAL NUMBER OF POLITICIANS**: 37,116 <br>
