@@ -1,6 +1,6 @@
 ## india_dec_2020.json:
 
-```
+
 **id_str** : twitter id in string format (str) <br>
 **id**: twitter id (str) <br>
 **screen_name**: twitter handle (str) <br>
@@ -12,11 +12,35 @@
 **TOTAL NUMBER OF POLITICIANS**: 37,116 <br>
 
 NOTE: NaN or None values are stored as string "NULL"
-```
+
 
 ##all_politicians_dec2020_metadata.json
+
 ```
 
+
+**id_str** : twitter id in string format (str) 
+**id**: twitter id (str) 
+**screen_name**: twitter handle (str) 
+
+**name**:  Twitter display name
+
+**followers_count**: Twitter followers count of user screen name 
+
+**description**: Twitter Description of user screen name 
+ 
+**friends_count**: Twitter Friends count of user screen name 
+
+**verified**:  Possible values a) TRUE (verified user ) 
+							   b) FALSE (unverified user)
+
+**account_exists**: Possible values a) Exists (if user twitter accounts exists )  
+								    b)User Suspended  (if user twitter accounts is suspended ) 
+                                    c)User Not Found  (if user twitter accounts is not found )
+
+
+
+**TOTAL NUMBER OF POLITICIANS**: 37,116 
 
 
 ```
