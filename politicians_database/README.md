@@ -1,5 +1,6 @@
 ## india_dec_2020.json:
 
+```
 **id_str** : twitter id in string format (str) <br>
 **id**: twitter id (str) <br>
 **screen_name**: twitter handle (str) <br>
@@ -11,3 +12,11 @@
 **TOTAL NUMBER OF POLITICIANS**: 37,116 <br>
 
 NOTE: NaN or None values are stored as string "NULL"
+```
+
+##all_politicians_dec2020_metadata.json
+```
+
+
+
+```
